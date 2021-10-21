@@ -1,0 +1,13 @@
+// variables are places where you can store program data
+
+var str = "Hello, playground"
+
+
+//That creates a new variable called str, giving it the value “Hello, playground”.
+
+
+//Because str is a variable we can change it:
+
+str = "Goodbye"
+
+// We don’t need var the second time because the variable has already been created – we’re just changing it.
